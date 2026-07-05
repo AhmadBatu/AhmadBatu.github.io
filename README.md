@@ -17,16 +17,15 @@
 **Cybersecurity student** focused on digital forensics, malware analysis, and applying machine learning to security problems. Currently building skills through CTFs, home labs, and hands-on research.
 
 ```bash
-┌──(ahmad㉿kali)-[~]
-└─$ whoami --verbose
+ahmad@kali:~$ whoami --verbose
 
 USER       : Ahmad Batu
 ROLE       : Cybersecurity Student
 FOCUS      : Digital Forensics | Malware Analysis | Machine Learning
-TOOLS      : Splunk · Wireshark · Volatility · Autopsy · Metasploit
-LANGUAGES  : Python · Bash · PowerShell
-PLATFORMS  : TryHackMe · HackTheBox · CyberDefenders
-STATUS     : ██████████████████░░ 90% — always learning
+TOOLS      : Splunk | Wireshark | Volatility | Autopsy | Metasploit
+LANGUAGES  : Python | Bash | PowerShell
+PLATFORMS  : TryHackMe | HackTheBox | CyberDefenders
+STATUS     : always learning
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
