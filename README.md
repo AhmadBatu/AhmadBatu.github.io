@@ -17,10 +17,16 @@
 **Cybersecurity student** focused on digital forensics, malware analysis, and applying machine learning to security problems. Currently building skills through CTFs, home labs, and hands-on research.
 
 ```bash
-$ whoami
-> AHMAD BATU | CYBERSECURITY STUDENT
-> FOCUS  : DIGITAL FORENSICS | MALWARE ANALYSIS | MACHINE LEARNING
-> STATUS : STUDYING | BUILDING | LEARNING
+┌──(ahmad㉿kali)-[~]
+└─$ whoami --verbose
+
+USER       : Ahmad Batu
+ROLE       : Cybersecurity Student
+FOCUS      : Digital Forensics | Malware Analysis | Machine Learning
+TOOLS      : Splunk · Wireshark · Volatility · Autopsy · Metasploit
+LANGUAGES  : Python · Bash · PowerShell
+PLATFORMS  : TryHackMe · HackTheBox · CyberDefenders
+STATUS     : ██████████████████░░ 90% — always learning
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
@@ -68,8 +74,11 @@ $ whoami
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
 
-## PROJECTS
+>## PROJECTS
+>DRONE DETECTION SYSTEM (FYP)
 
+Real-time UAV detection framework using YOLOv8 with a Flask web dashboard. Supports live video streams, webcam feeds, and media uploads with visual bounding box localization.
+>`YOLOV8` · `OPENCV` · `FLASK` . `PYTHON` . `HTML/CSS/JS`
 
 > ### CTF WRITEUPS
 > Documented walkthroughs from HackTheBox, TryHackMe, and CyberDefenders
