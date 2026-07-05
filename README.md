@@ -4,9 +4,9 @@
 
 <br/>
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-AHMADBATU-ffffff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000)](https://www.linkedin.com/in/)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-AHMADBATU-ffffff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000)](www.linkedin.com/in/harith-muanis)
 [![GITHUB](https://img.shields.io/badge/GITHUB-AHMADBATU-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/AhmadBatu)
-[![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-ffffff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000)](mailto:your@email.com)
+[![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-ffffff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000)](mailto:muhammadharithmuanismasrur@gmail.com)
 
 </div>
 
@@ -61,7 +61,7 @@ $ whoami
 | | NAME | ISSUER | DATE |
 |:-:|---|---|---|
 | ✓ | WIRELESS PENETRATION TESTER | 0DAY ACADEMY | FEB 2026 |
-| ✓ | COMPTIA SECURITY+ | COMPTIA | JAN 2026 |
+| ✓ | COMPTIA SECURITY+ | COMPTIA | OCT 2025 |
 | ✓ | CCOE CAREER IN CYBERSECURITY (ENTRY) | BLACKBERRY | MAY 2025 |
 | ✓ | INTRODUCTION TO CLOUD COMPUTING | — | MAY 2025 |
 | ⋯ | CERTIFIED ARTIFICIAL INTELLIGENCE (CAI) | — | *IN PROG.* |
