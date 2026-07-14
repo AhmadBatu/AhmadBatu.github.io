@@ -1,89 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:1a1a1a,100:0d0d0d&height=200&section=header&text=AHMAD%20BATU&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=DIGITAL%20FORENSICS%20·%20MALWARE%20ANALYSIS%20·%20MACHINE%20LEARNING&descAlignY=68&descSize=14&descColor=999999" />
+# Muhammad Harith Muanis Bin Masrur
 
-<br/>
+**Cybersecurity Graduate · CompTIA Security+ Certified · Immediately Available**
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-AHMADBATU-ffffff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000)](www.linkedin.com/in/harith-muanis)
-[![GITHUB](https://img.shields.io/badge/GITHUB-AHMADBATU-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/AhmadBatu)
-[![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-ffffff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000)](mailto:muhammadharithmuanismasrur@gmail.com)
+[![Email](https://img.shields.io/badge/Email-muhammadharithmuanismasrur%40gmail.com-0a66c2?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadharithmuanismasrur@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Location](https://img.shields.io/badge/Location-Nilai%2C%20Negeri%20Sembilan%2C%20Malaysia-555?style=flat-square)](#)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
+---
 
-## ABOUT
+## About Me
 
-**Cybersecurity student** focused on digital forensics, malware analysis, and applying machine learning to security problems. Currently building skills through CTFs, home labs, and hands-on research.
+Computer Science Honours graduate specialising in **Information Security & Assurance** from Universiti Sains Islam Malaysia (USIM), graduating August 2026 with a CGPA of **3.67** and four consecutive Dean's Award semesters.
 
-```bash
-ahmad@kali:~$ whoami --verbose
+Hands-on experience across the full security spectrum: deploying and monitoring a production honeypot that captured **1.1 million events**, conducting disk and network forensics in a professional internship, building purple team infrastructure from scratch, and competing at national-level CTF competitions. Passionate about **cyber defence, threat intelligence, digital forensics**, and AI-integrated security systems.
 
-USER       : Ahmad Batu
-ROLE       : Cybersecurity Student
-FOCUS      : Digital Forensics | Malware Analysis | Machine Learning
-TOOLS      : Splunk | Wireshark | Volatility | Autopsy | Metasploit
-LANGUAGES  : Python | Bash | PowerShell
-PLATFORMS  : TryHackMe | HackTheBox | CyberDefenders
-STATUS     : always learning
-```
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
+## 🎓 Education
 
-## STACK
+| Qualification | Institution | Result |
+|---|---|---|
+| B.Sc. (Hons) Computer Science — Information Security & Assurance | Universiti Sains Islam Malaysia (USIM) | CGPA 3.67 · Dean's Award ×4 |
+| Foundation in Engineering | Universiti Teknologi MARA (UiTM) | CGPA 3.93 · Dean's Award ×2 |
 
-<p>
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&logo=powershell&logoColor=ffffff" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=ffffff" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/VOLATILITY-000000?style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/AUTOPSY-000000?style=for-the-badge&logoColor=ffffff" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikitlearn&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=ffffff" />
-</p>
+---
 
+## 🏅 Certifications & Training
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
+| Certification | Issuer | Date |
+|---|---|---|
+| Wireless Penetration Tester | 0Day Academy | Feb 2026 |
+| CompTIA Security+ | CompTIA | Jan 2026 |
+| Blue Team Junior Analyst | CENTRI | — |
+| CCoE Career in Cybersecurity (Entry) | BlackBerry | May 2025 |
+| Introduction to Cloud Computing | — | May 2025 |
+| Introduction to Cryptography | — | Nov 2024 |
+| Certified Artificial Intelligence (CAI) | — | In Progress |
 
-## CERTIFICATIONS
+**Training attended:** CompTIA Security+, CompTIA Pentest+, Cloud Computing Introduction (BlackBerry CCoE, Cyberjaya) · Drone Simulation & Flying (AKSADRONE, Cyberjaya)
 
-| | NAME | ISSUER | DATE |
-|:-:|---|---|---|
-| ✓ | WIRELESS PENETRATION TESTER | 0DAY ACADEMY | FEB 2026 |
-| ✓ | COMPTIA SECURITY+ | COMPTIA | OCT 2025 |
-| ✓ | INTRODUCTION TO CLOUD COMPUTING | — | MAY 2025 |
-| ⋯ | CERTIFIED ARTIFICIAL INTELLIGENCE (CAI) | — | *IN PROG.* |
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
+## 🏆 Competitions & Recognition
 
->## PROJECTS
->DRONE DETECTION SYSTEM (FYP)
+| Award | Year | Level |
+|---|---|---|
+| **Silver Medal** — ShadowNet: Secure Data Transfer Framework, 5th IBC / Negeri Sembilan Festival of Ideas | 2025 | National |
+| **LigaCTF** — Top 4, Week 6; web exploitation, crypto, forensics, OSINT, RE | 2026 | National |
+| **HackNyx** — Jeopardy CTF; web exploitation, crypto, forensics, OSINT | 2026 | National |
+| **Hack@10** — Jeopardy CTF; web exploitation, crypto, forensics, OSINT | 2026 | National |
+| **Top 6%** — Bahtera Siber CTF 3108; web exploitation, crypto, forensics, OSINT | 2025 | National |
+| **Participant** — CTF Wargames MY | 2024 | National |
 
-Real-time UAV detection framework using YOLOv8 with a Flask web dashboard. Supports live video streams, webcam feeds, and media uploads with visual bounding box localization.
->`YOLOV8` · `OPENCV` · `FLASK` . `PYTHON` . `HTML/CSS/JS`
+---
 
-> ### CTF WRITEUPS
-> Documented walkthroughs from HackTheBox, TryHackMe, and CyberDefenders
-> `FORENSICS` · `REVERSE ENGINEERING` · `OSINT`
+## 🛠️ Technical Skills
 
-> ### HOME LAB
-> Virtualized environment with Active Directory, Splunk SIEM, and vulnerable targets
-> `DOCKER` · `SPLUNK` · `LINUX` · `ACTIVE DIRECTORY`
+### Security Tools
+`Nmap` `Metasploit` `Nessus` `Wireshark` `GoPhish` `Splunk` `Auditd` `FTK Imager` `Autopsy` `Proxmox` `Nginx`
 
+### Domains
+
+| Domain | Capabilities |
+|---|---|
+| **Blue Team / SOC** | SIEM correlation, SPL querying, incident timeline reconstruction, log ingestion & analysis |
+| **Digital Forensics** | Disk image acquisition (VMDK), network PCAP analysis, Windows persistence artefact investigation |
+| **Red Team / Offensive** | Vulnerability assessment, phishing simulation, web exploitation, wireless pentesting |
+| **Purple Team** | End-to-end lab infrastructure setup, adversary emulation, detection validation |
+| **Threat Intelligence** | Honeypot deployment, attacker tradecraft analysis, investigation playbook development |
+
+### Machine Learning & AI
+`YOLO (Computer Vision)` `WEKA (Data Mining)` — trained and deployed models for real-world security use cases
+
+### Programming
+
+| Level | Languages |
+|---|---|
+| Advanced | PHP, HTML, C, C++ |
+| Intermediate | Java, Python, Arduino |
+
+### Standards & Frameworks
+OWASP Top Ten · Incident Response · Security Monitoring & Detection
+
+---
+
+## 📁 Featured Projects
+
+### 🍯 Honeypot Deployment & Threat Analysis — NetByteSec Internship
+> *March 2025 – August 2026*
+
+- Deployed a deliberately vulnerable **Drupal 10** honeypot on **Proxmox**, simulating a realistic Malaysian corporate environment complete with fake staff records, honeytoken accounts, and canary tokens to attract and observe real attacker behaviour.
+- Analysed approximately **1.1 million security events** across six Splunk sourcetypes, developing a custom investigation playbook and formal incident report that identified two attacker IPs with distinctly contrasting tradecraft.
+- Built the full end-to-end infrastructure stack: **Nginx · Auditd · Splunk Universal Forwarder · network monitoring**, enabling comprehensive log collection and threat analysis.
+
+---
+
+### 🔴🔵 Purple Team Exercise — Server Infrastructure & Adversary Emulation
+> *In Progress*
+
+- Provisioning and hardening a server **from scratch** to serve as a realistic target environment for integrated red and blue team activities.
+- **Red team phase:** Conducting offensive operations including reconnaissance, exploitation, and lateral movement against the self-built infrastructure.
+- **Blue team phase:** Detecting, investigating, and responding to the simulated attacks using SIEM log analysis, alert tuning, and incident documentation.
+- Objective: close the loop between attack execution and detection engineering — validating that defensive controls catch what the red team does, and identifying gaps where they don't.
+
+---
+
+### 🔍 Disk & Network Forensics — NetByteSec Internship
+> *March 2025 – August 2026*
+
+- Performed forensic acquisition and analysis of a Windows workstation VMDK disk image using **FTK Imager** and **Autopsy**, extracting filesystem artefacts, credential stores, and evidence of attacker activity.
+- Analysed a 314 MB packet capture in **Wireshark**, reconstructing a time-based blind SQL injection chain (`pg_sleep` via `forgotpassword.php`) to recover exfiltrated credentials.
+- Investigated Windows persistence mechanisms including Credential Manager, registry caches, and scheduled tasks via live VM examination.
+- Ingested recovered forensic logs into **Splunk** for correlation, timeline reconstruction, and SPL-based querying to support structured incident analysis.
+
+---
+
+### 🚁 Secured Anti-Drone Detection System — Final Year Project (USIM)
+> *Feb 2025 – Jan 2026*
+
+- Designed and trained a custom **YOLO-based** computer vision model to detect unauthorised drone presence within a defined surveillance zone.
+- Integrated machine learning with physical security principles to address emerging aerial privacy and intrusion risks.
+- Implemented end-to-end: dataset preparation → model training → performance tuning → real-time video inference.
+
+---
+
+### 🔐 ShadowNet: Secure Data Transfer Framework
+> *October 2025 · 🥈 Silver Medal — 5th Innovation Bank Challenge (IBC) 2025*
+
+- Designed a novel secure-transfer mechanism combining **steganography** and **quantum-resistant encryption**.
+- Outperformed 116+ competing innovation teams, demonstrating both commercial viability and technical robustness.
+
+---
+
+### 🎣 A Phishing Tale — Ethical Hacking Simulation
+> *July 2024*
+
+- Executed a controlled phishing awareness simulation using **GoPhish**, modelling realistic social engineering attack vectors.
+- Performed vulnerability assessments, analysed user behaviour, and delivered security awareness briefings.
+- 📹 [Video demonstration](https://youtu.be/Gyld9TD0LeE)
+
+---
+
+<div align="center">
+
+*Immediately available · Open to cybersecurity roles in SOC, threat intelligence, digital forensics, and penetration testing*
 
 </div>
