@@ -57,7 +57,6 @@ STATUS     : always learning
 <img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=ffffff" />
 </p>
 
-**TRAINING GROUNDS** ⠀ `TRYHACKME` · `HACKTHEBOX` · `CYBERDEFENDERS`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
 
@@ -67,7 +66,6 @@ STATUS     : always learning
 |:-:|---|---|---|
 | ✓ | WIRELESS PENETRATION TESTER | 0DAY ACADEMY | FEB 2026 |
 | ✓ | COMPTIA SECURITY+ | COMPTIA | OCT 2025 |
-| ✓ | CCOE CAREER IN CYBERSECURITY (ENTRY) | BLACKBERRY | MAY 2025 |
 | ✓ | INTRODUCTION TO CLOUD COMPUTING | — | MAY 2025 |
 | ⋯ | CERTIFIED ARTIFICIAL INTELLIGENCE (CAI) | — | *IN PROG.* |
 
@@ -87,26 +85,5 @@ Real-time UAV detection framework using YOLOv8 with a Flask web dashboard. Suppo
 > Virtualized environment with Active Directory, Splunk SIEM, and vulnerable targets
 > `DOCKER` · `SPLUNK` · `LINUX` · `ACTIVE DIRECTORY`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
-
-## STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmadBatu&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&ring_color=ffffff" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadBatu&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&currStreakNum=ffffff&sideNums=999999&dates=555555" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
-
-## CONTRIBUTIONS
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1a1a,100:000000&height=100&section=footer" />
 
 </div>
