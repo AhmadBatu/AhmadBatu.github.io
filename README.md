@@ -22,7 +22,7 @@ Outside of internship work I compete in national CTFs, build my own lab environm
 
 | | | |
 |---|---|---|
-| B.Sc. (Hons) Computer Science — Information Security & Assurance | USIM | CGPA 3.67 · Dean's Award ×4 (incl. 4.00 final sem) |
+| B.Sc. (Hons) Computer Science — Information Security & Assurance | USIM | CGPA 3.67 · Dean's Award ×4 |
 | Foundation in Engineering | UiTM | CGPA 3.93 · Dean's Award ×2 |
 
 ---
