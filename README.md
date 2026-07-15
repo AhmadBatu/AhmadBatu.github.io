@@ -11,10 +11,7 @@
 </div>
 
 ---
-
-I'm a final-year Computer Science student at USIM majoring in Information Security & Assurance, graduating August 2026. My internship at NetByteSec was where things got real — I deployed a live honeypot, watched actual attackers hit it, and dug through 1.1 million Splunk events to figure out what they were doing.
-
-Outside of internship work I compete in national CTFs, build my own lab environments, and have been working on a purple team exercise where I set up a server from scratch and run both sides of the attack — offensive ops followed by detection and response against my own infrastructure.
+Hi, I'm Harith — a final-year Information Security & Assurance student at USIM, graduating August 2026. I've been fortunate to get some real hands-on time during my internship at NetByteSec, where I got to deploy a honeypot, monitor live attacker activity, and do a fair bit of forensics work. Outside of that I enjoy CTFs, tinkering with my own lab, and I'm currently working through a purple team exercise on the side. Still lots to learn, but genuinely enjoying the process.
 
 ---
 
