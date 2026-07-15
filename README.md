@@ -54,6 +54,7 @@ Hands-on experience across the full security spectrum: deploying and monitoring 
 | **HackNyx** — Jeopardy CTF; web exploitation, crypto, forensics, OSINT | 2026 | National |
 | **Hack@10** — Jeopardy CTF; web exploitation, crypto, forensics, OSINT | 2026 | National |
 | **Top 6%** — Bahtera Siber CTF 3108; web exploitation, crypto, forensics, OSINT | 2025 | National |
+| **Participant** — ACOTECH Hackathon | 2025 | National |
 | **Participant** — CTF Wargames MY | 2024 | National |
 
 ---
