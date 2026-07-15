@@ -149,6 +149,11 @@ Ran a controlled phishing campaign using GoPhish against a simulated organisatio
 
 ---
 
+### 🕌 SmartMasjid System
+**Software Tester · February 2024**
+
+Brought in as Software Tester for a mosque activity management system. Ran functional, integration, and performance tests across the full system, validated user flows, and made sure everything was stable before deployment.
+
 <div align="center">
 <sub>Open to roles in SOC, threat intelligence, digital forensics, and penetration testing</sub>
 </div>
